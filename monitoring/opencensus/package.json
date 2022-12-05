@@ -14,7 +14,7 @@
     "@opencensus/exporter-stackdriver": "^0.0.22",
     "chai": "^4.3.0",
     "express": "^4.17.1",
-    "lint": "^0.7.0",
+    "lint": "^0.8.5",
     "node-stopwatch": "^0.0.1",
     "request": "^2.88.2",
     "supertest": "^6.1.3"
